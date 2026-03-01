@@ -1,7 +1,6 @@
 {
   "name": "fimo-telegram-bot",
   "version": "1.0.0",
-  "description": "Fimo brendi uchun Telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,8 +9,6 @@
     "telegraf": "^4.16.3"
   },
   "engines": {
-    "node": ">=18.0.0"
-  },
-  "author": "Akmal",
-  "license": "MIT"
+    "node": ">=18"
+  }
 }
